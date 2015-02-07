@@ -1,0 +1,17 @@
+item.awesomesaucecomponents.dustImpureAwesomeite.name=Awesomeite Dust
+item.awesomesaucecomponents.ingotImpureAwesomeite.name=Awesomeite Ingot
+item.awesomesaucecomponents.nuggetImpureAwesomeite.name=Awesomeite Nugget
+tile.awesomesaucecomponents.blockImpureAwesomeite.name=Awesomeite Block
+item.awesomesaucecomponents.dustPureAwesomeite.name=Pure Awesomeite Dust
+item.awesomesaucecomponents.ingotPureAwesomeite.name=Pure Awesomeite Ingot
+item.awesomesaucecomponents.nuggetPureAwesomeite.name=Pure Awesomeite Nugget
+tile.awesomesaucecomponents.blockPureAwesomeite.name=Pure Awesomeite Block
+tile.awesomesaucecomponents.awesomeCore.name=Awesome Machine Core
+item.awesomesaucecomponents.flour.name=Flour
+item.awesomesaucecomponents.awesomeiteHammer.name=Awesomeite Hammer
+itemGroup.AwesomeSauceComponents=Awesome Sauce Components
+
+awesomesaucecomponents.awesomeite.desc.1=The most awesome metal in the universe
+awesomesaucecomponents.pureAwesomeite.desc.1=This one is completely pure, it's almost magic.
+awesomesaucecomponents.flour.desc.1=Wheat Flour. Smelt it into bread.
+awesomesaucecomponents.awesomeiteHammer.desc.1=A fragile hammer, it breaks after one use.
